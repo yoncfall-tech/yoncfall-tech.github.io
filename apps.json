@@ -17,8 +17,8 @@
                                             "slug":  "vpn-launcher",
                                             "name":  "VPN LAUNCHER BY @YoncFALL",
                                             "tagline":  "Графический лаунчер sing-box для Windows",
-                                            "description":  "Тёмный игровой интерфейс, два режима работы, исключения процессов для игр и античитов. Запуск без окна консоли, подписку вставляешь сам.",
-                                            "version":  "1.0.2",
+                                            "description":  "Установщик setup.exe: один файл, установка в профиль без прав администратора. Окно приложения с собственной иконкой, без окна PowerShell. Исключения процессов для игр и античитов.",
+                                            "version":  "1.0.3",
                                             "license":  "GPL-3.0",
                                             "platform":  "Windows 10+ x64",
                                             "size":  "26.4 MB",
@@ -31,7 +31,7 @@
                                                          "BattlEye"
                                                      ],
                                             "screenshot":  "assets/vpn-launcher.png",
-                                            "download":  "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.2.zip",
+                                            "download":  "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.3-Setup.exe",
                                             "source":  "https://github.com/yoncfall-tech/VPN-LAUNCHER"
                                         }
                                     ]
