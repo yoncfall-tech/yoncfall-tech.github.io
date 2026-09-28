@@ -1,40 +1,34 @@
-﻿{
-    "site":  {
-                 "name":  "YoncFALL",
-                 "tagline":  "РЎРѕС„С‚ РґР»СЏ Windows",
-                 "description":  "РћС‚РєСЂС‹С‚С‹Р№ СЃРѕС„С‚ РґР»СЏ Windows: VPN-Р»Р°СѓРЅС‡РµСЂ Рё СѓС‚РёР»РёС‚С‹.",
-                 "links":  {
-                               "github":  "https://github.com/yoncfall-tech",
-                               "telegram":  ""
-                           }
-             },
-    "categories":  [
-                       {
-                           "id":  "vpn",
-                           "title":  "VPN",
-                           "apps":  [
-                                        {
-                                            "slug":  "vpn-launcher",
-                                            "name":  "VPN LAUNCHER BY @YoncFALL",
-                                            "tagline":  "Р“СЂР°С„РёС‡РµСЃРєРёР№ Р»Р°СѓРЅС‡РµСЂ sing-box РґР»СЏ Windows",
-                                            "description":  "РўС‘РјРЅС‹Р№ РёРіСЂРѕРІРѕР№ РёРЅС‚РµСЂС„РµР№СЃ, РґРІР° СЂРµР¶РёРјР° СЂР°Р±РѕС‚С‹, РёСЃРєР»СЋС‡РµРЅРёСЏ РїСЂРѕС†РµСЃСЃРѕРІ РґР»СЏ РёРіСЂ Рё Р°РЅС‚РёС‡РёС‚РѕРІ. РџРѕРґРїРёСЃРєСѓ РІСЃС‚Р°РІР»СЏРµС€СЊ СЃР°Рј.",
-                                            "version":  "1.0.1",
-                                            "license":  "GPL-3.0",
-                                            "platform":  "Windows 10+ x64",
-                                            "size":  "26.6 MB",
-                                            "requiresAdmin":  "TUN-СЂРµР¶РёРј С‚СЂРµР±СѓРµС‚ РїСЂР°РІ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°",
-                                            "tags":  [
-                                                         "sing-box",
-                                                         "TUN",
-                                                         "РёРіСЂС‹",
-                                                         "EAC",
-                                                         "BattlEye"
-                                                     ],
-                                            "screenshot":  "assets/vpn-launcher.png",
-                                            "download":  "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.1.zip",
-                                            "source":  "https://github.com/yoncfall-tech/VPN-LAUNCHER"
-                                        }
-                                    ]
-                       }
-                   ]
+{
+  "site": {
+    "name": "YoncFALL",
+    "tagline": "Софт для Windows",
+    "description": "Открытый софт для Windows: VPN-лаунчер и утилиты.",
+    "links": {
+      "github": "https://github.com/yoncfall-tech",
+      "telegram": ""
+    }
+  },
+  "categories": [
+    {
+      "id": "vpn",
+      "title": "VPN",
+      "apps": [
+        {
+          "slug": "vpn-launcher",
+          "name": "VPN LAUNCHER BY @YoncFALL",
+          "tagline": "Графический лаунчер sing-box для Windows",
+          "description": "Тёмный игровой интерфейс, два режима работы, исключения процессов для игр и античитов. Подписку вставляешь сам.",
+          "version": "1.0.1",
+          "license": "GPL-3.0",
+          "platform": "Windows 10+ x64",
+          "size": "26.6 MB",
+          "requiresAdmin": "TUN-режим требует прав администратора",
+          "tags": ["sing-box", "TUN", "игры", "EAC", "BattlEye"],
+          "screenshot": "assets/vpn-launcher.png",
+          "download": "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.1.zip",
+          "source": "https://github.com/yoncfall-tech/VPN-LAUNCHER"
+        }
+      ]
+    }
+  ]
 }
