@@ -11,7 +11,7 @@
   "categories": [
     {
       "id": "vpn",
-      "title": "VPN",
+      "title": "VPN ЛАУНЧЕР",
       "apps": [
         {
           "slug": "vpn-launcher",
