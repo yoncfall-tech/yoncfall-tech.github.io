@@ -17,11 +17,11 @@
                                             "slug":  "vpn-launcher",
                                             "name":  "VPN LAUNCHER BY @YoncFALL",
                                             "tagline":  "Графический лаунчер sing-box для Windows",
-                                            "description":  "Установщик setup.exe: один файл, установка в профиль без прав администратора. Окно приложения с собственной иконкой, без окна PowerShell. Исключения процессов для игр и античитов.",
-                                            "version":  "1.0.3",
+                                            "description":  "Установщик setup.exe: проверяет, всё ли нужно на компьютере, и сам доставляет недостающее. Окно с собственной иконкой, без окна PowerShell.",
+                                            "version":  "1.0.4",
                                             "license":  "GPL-3.0",
                                             "platform":  "Windows 10+ x64",
-                                            "size":  "26.4 MB",
+                                            "size":  "26.5 MB",
                                             "requiresAdmin":  "TUN-режим требует прав администратора",
                                             "tags":  [
                                                          "sing-box",
@@ -31,7 +31,7 @@
                                                          "BattlEye"
                                                      ],
                                             "screenshot":  "assets/vpn-launcher.png",
-                                            "download":  "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.3-Setup.exe",
+                                            "download":  "https://github.com/yoncfall-tech/VPN-LAUNCHER/releases/latest/download/VPN-LAUNCHER-1.0.4-Setup.exe",
                                             "source":  "https://github.com/yoncfall-tech/VPN-LAUNCHER"
                                         }
                                     ]
